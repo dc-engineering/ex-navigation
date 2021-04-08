@@ -132,6 +132,7 @@ const buttonStyles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
+    marginTop: 8,
   },
   button: {
     resizeMode: 'contain',
